@@ -1,0 +1,8 @@
+1. Download & Install python latest version if not installed (https://www.python.org/downloads/)
+2. Open your Terminal/Command Prompt
+3. Goto project folder(cd <folder_name> <press enter>). Exp. cd Text-To-Speech
+4. Then install requirements modules(pip3 install -r requirements.txt)
+5. Open 'main.py' file with editor mode
+6. Add 'openai_api_key' for ChatGPT response
+7. Add 'xi_api_key' for Text-To-Speech from Elevenlabs (https://beta.elevenlabs.io/speech-synthesis)
+8. Then type python main.py and hit <enter>
