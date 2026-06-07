@@ -112,9 +112,9 @@ Text-To-Speech/
 Here is a preview of the modern interface and workflow of the application:
 
 **Main Window**<br/>
-![Main Window](Screenshots/main_1.PNG)<br/>
+![Main Window](screenshots/main_1.png)<br/>
 **Main Window-Output**<br/>
-![Main Window-Output](Screenshots/main_2.PNG)
+![Main Window-Output](screenshots/main_2.png)
 
 
 ## 🔒 Security Note
